@@ -1,0 +1,18 @@
+---
+bruno:
+  border-radius: "12px"
+  ha-card-border-radius: "var(--border-radius)"
+  ha-dialog-border-radius: "10px"
+  ha-card-border-width: "0px"
+  paper-font-common-base_-_font-family: "'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'"
+  modes:
+    light:
+      box-shadow: "0 0 10px rgba(0, 0, 0, 0.05)"
+      ha-card-box-shadow: "var(--box-shadow)"
+      app-header-background-color: "rgb(236, 236, 236)"
+      app-header-text-color: "black"
+    dark:
+      google-red: "#F18B82"
+      box-shadow: "none"
+      app-header-background-color: "rgb(27, 27, 27)"
+      app-header-text-color: "white"
